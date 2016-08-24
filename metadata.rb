@@ -1,0 +1,7 @@
+name             'chef-nvidia'
+maintainer       'Brad Folkens'
+maintainer_email 'brad@cloudsightapi.com'
+license          'All rights reserved'
+description      'Installs/Configures NVIDIA drivers'
+long_description 'Installs/Configures NVIDIA drivers'
+version          '0.1.0'
